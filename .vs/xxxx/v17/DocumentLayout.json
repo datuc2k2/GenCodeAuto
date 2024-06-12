@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tts\\genCodeAuto\\xxxx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\genCodeAuto\\xxxx\\xxxx\\vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|d:\\tts\\gencodeauto\\xxxx\\xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\genCodeAuto\\xxxx\\xxxx\\scaffoldingservice\\scaffolded_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\scaffoldingservice\\scaffolded_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxxpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\xxxxpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\genCodeAuto\\xxxx\\xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\genCodeAuto\\xxxx\\xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:39:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCommand.cs",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\Commands\\MyCommand.cs",
+              "RelativeDocumentMoniker": "xxxx\\Commands\\MyCommand.cs",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\Commands\\MyCommand.cs",
+              "RelativeToolTip": "xxxx\\Commands\\MyCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:02:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scaffolded_Item.cs",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
+              "RelativeDocumentMoniker": "xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
+              "RelativeToolTip": "xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAnwB0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:32:21.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VSCommandTable.cs",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\VSCommandTable.cs",
+              "RelativeDocumentMoniker": "xxxx\\VSCommandTable.cs",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\VSCommandTable.cs",
+              "RelativeToolTip": "xxxx\\VSCommandTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:30:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VSCommandTable.vsct",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\VSCommandTable.vsct",
+              "RelativeDocumentMoniker": "xxxx\\VSCommandTable.vsct",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\VSCommandTable.vsct",
+              "RelativeToolTip": "xxxx\\VSCommandTable.vsct",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-06T03:01:24.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "xxxxPackage.cs",
+              "DocumentMoniker": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxxPackage.cs",
+              "RelativeDocumentMoniker": "xxxx\\xxxxPackage.cs",
+              "ToolTip": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxxPackage.cs",
+              "RelativeToolTip": "xxxx\\xxxxPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:01:12.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

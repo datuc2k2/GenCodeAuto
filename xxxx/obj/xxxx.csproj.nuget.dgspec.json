@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxx.csproj": {}
+  },
+  "projects": {
+    "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxx.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxx.csproj",
+        "projectName": "xxxx",
+        "projectPath": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\xxxx.csproj",
+        "packagesPath": "C:\\Users\\datng\\.nuget\\packages\\",
+        "outputPath": "D:\\tts\\genCodeAuto\\xxxx\\xxxx\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\datng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Community.VisualStudio.Toolkit.17": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.451, )"
+            },
+            "Community.VisualStudio.VSCT": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[16.0.29.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.0.5232, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
