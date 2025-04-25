@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "D:\\tts\\newxxxx\\GenCodeAuto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\VSCommandTable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\source.extension.vsixmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\source.extension.vsixmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\source.extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\source.extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\gencodeautopackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\gencodeautopackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|d:\\tts\\newxxxx\\gencodeauto\\xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\GenCodeAuto.csproj|solutionrelative:xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\commands\\mycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\scaffoldingservice\\scaffolded_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\scaffoldingservice\\scaffolded_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\xxxxpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\xxxxpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.vsixmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\source.extension.vsixmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\source.extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Commands\\MyCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\Commands\\MyCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\GenCodeAutoPackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\GenCodeAutoPackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\VSCommandTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Commands\\MyCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\Commands\\MyCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\ScaffoldingService\\Scaffolded_Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\ScaffoldingService\\Scaffolded_Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\VSCommandTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\xxxxPackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xxxx\\xxxxPackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47E80A-A828-4861-8ABA-320255373862}|xxxx\\xxxx.csproj|solutionrelative:xxxx\\vscommandtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,6 +60,45 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.extension.vsixmanifest",
+              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "xxxx\\source.extension.vsixmanifest",
+              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.vsixmanifest",
+              "RelativeToolTip": "xxxx\\source.extension.vsixmanifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-04-25T08:34:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.extension.cs",
+              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.cs",
+              "RelativeDocumentMoniker": "xxxx\\source.extension.cs",
+              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.cs",
+              "RelativeToolTip": "xxxx\\source.extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:33:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "xxxx\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "xxxx\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:33:20.601Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -82,43 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "source.extension.vsixmanifest",
-              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.vsixmanifest",
-              "RelativeDocumentMoniker": "xxxx\\source.extension.vsixmanifest",
-              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.vsixmanifest",
-              "RelativeToolTip": "xxxx\\source.extension.vsixmanifest",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-04-25T08:34:07.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "source.extension.cs",
-              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.cs",
-              "RelativeDocumentMoniker": "xxxx\\source.extension.cs",
-              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\source.extension.cs",
-              "RelativeToolTip": "xxxx\\source.extension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:33:34.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "xxxx\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "xxxx\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:33:20.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MyCommand.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Commands\\MyCommand.cs",
               "RelativeDocumentMoniker": "xxxx\\Commands\\MyCommand.cs",
@@ -126,11 +129,12 @@
               "RelativeToolTip": "xxxx\\Commands\\MyCommand.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:32:13.899Z"
+              "WhenOpened": "2025-04-25T08:32:13.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "GenCodeAutoPackage.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\GenCodeAutoPackage.cs",
               "RelativeDocumentMoniker": "xxxx\\GenCodeAutoPackage.cs",
@@ -138,11 +142,12 @@
               "RelativeToolTip": "xxxx\\GenCodeAutoPackage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:32:13.973Z"
+              "WhenOpened": "2025-04-25T08:32:13.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "VSCommandTable.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.cs",
               "RelativeDocumentMoniker": "xxxx\\VSCommandTable.cs",
@@ -150,11 +155,12 @@
               "RelativeToolTip": "xxxx\\VSCommandTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:32:14.353Z"
+              "WhenOpened": "2025-04-25T08:32:14.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
@@ -162,11 +168,12 @@
               "RelativeToolTip": "xxxx\\bin\\Debug\\DTO\\EmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:39:55.605Z"
+              "WhenOpened": "2024-06-07T09:39:55.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "MyCommand.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\Commands\\MyCommand.cs",
               "RelativeDocumentMoniker": "xxxx\\Commands\\MyCommand.cs",
@@ -178,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Scaffolded_Item.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
               "RelativeDocumentMoniker": "xxxx\\ScaffoldingService\\Scaffolded_Item.cs",
@@ -190,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "VSCommandTable.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.cs",
               "RelativeDocumentMoniker": "xxxx\\VSCommandTable.cs",
@@ -208,12 +215,14 @@
               "RelativeDocumentMoniker": "xxxx\\VSCommandTable.vsct",
               "ToolTip": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\VSCommandTable.vsct",
               "RelativeToolTip": "xxxx\\VSCommandTable.vsct",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-06-06T03:01:24.628Z"
+              "WhenOpened": "2024-06-06T03:01:24.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "xxxxPackage.cs",
               "DocumentMoniker": "D:\\tts\\newxxxx\\GenCodeAuto\\xxxx\\xxxxPackage.cs",
               "RelativeDocumentMoniker": "xxxx\\xxxxPackage.cs",
